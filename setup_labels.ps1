@@ -1,7 +1,7 @@
 ﻿# ================= 配置区域 =================
 # 您的仓库列表 (请根据实际情况修改)
 $repos = @(
-    "DBJD-CR/astrbot_plugin_live_dashboard"
+    "DBJD-CR/awesome_issue_pr_label"
 )
 
 # 1. 要删除的默认标签 (GitHub 原厂标签)
